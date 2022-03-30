@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+git_start
+git_cd
 Use the left arrow to go back!
+
